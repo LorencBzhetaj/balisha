@@ -20,10 +20,10 @@ export const services = [
     },
     body: {
       sq: [
-        'Institucionet financiare (bankat, subjektet financiare jo-banka, institucionet e mikrokredisë, shoqëritë e kursim-kreditit etj.) zakonisht, pasi klienti shfaq vështirësi në pagesën e kësteve, angazhohen menjëherë në ekzekutimin e kolateralit.',
-        'Bëni kujdes! Vlerësoni çdo njoftim të kredituesit lidhur me detyrimet e palikuiduara, pasi subjektet bankare, duke e pasur huanë të mbrojtur me anë të kolateralit, luajnë me afatet.',
+        'Institucionet financiare (bankat, subjektet financiare jo-banka, institucionet e mikrokredisë, shoqëritë e kursim-kreditit etj.) zakonisht, pasi klienti shfaq vështirësi në pagesën e kësteve, ato menjëherë angazhohen në ekzekutimin e kolateralit.',
+        'Bëni kujdes! Vlerësoni çdo njoftim të kredituesit lidhur me detyrimet e palikuiduara, pasi subjektet bankare, duke pasur të mbrojtur huanë me anë të kolateralit, ato luajnë me afatet.',
         'Nëse keni marrë njoftim për ekzekutimin e kolateralit, afati maksimal deri në ekzekutimin e kolateralit është përafërsisht 6 muaj kohë. Kjo është koha efektive që ju mund ta stoponi procedurën. Nëse pritja zgjatet ose neglizhenca juaj „trimërohet”, pasojat do të jenë gjithnjë e më të mëdha. Detyrimet shtohen dhe pakësohen shanset që me vendim gjyqësor ju të merrni plan të ri pagesash dhe të merrni në posedim pronën që keni vendosur kolateral.',
-        'Ndihma më e mirë për të ndaluar ekzekutimin e pasurive të paluajtshme është të kontaktoni një ekspert ligjor dhe të diskutoni mbi opsionet që mund të keni.',
+        'Ndihma më e mirë për të ndaluar ekzekutimin e pasurive të paluajtshme është të kontaktoni me një ekspert ligjor dhe të diskutoni mbi opsionet që mund të keni.',
         'Studio BALISHA është e përgatitur për t’ju ndihmuar të merrni nën kontroll problemet e borxhit dhe për të mbajtur pasuritë tuaja. Ne do t’ju japim alternativat më të mira dhe ju do të zgjidhni më të favorshmen për ju.',
       ],
       en: [
