@@ -1,0 +1,5 @@
+# Output i gjeneruar — Vercel e ndërton vetë me `node build.mjs`
+dist/
+node_modules/
+.vercel/
+.claude/

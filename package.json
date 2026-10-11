@@ -1,0 +1,13 @@
+{
+  "name": "balisha-studio-ligjore",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Faqja e studios ligjore — gjenerator statik dygjuhësh (SQ + EN) sipas Blueprint-it të faqeve web.",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:prod": "node build.mjs --prod",
+    "serve": "node serve.mjs",
+    "dev": "node build.mjs && node serve.mjs"
+  }
+}
